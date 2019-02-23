@@ -1,0 +1,27 @@
+Sample_Date	IC_#	Sample_#	TYPE	SOURCE	PROJECT	CATEGORY	PARAMETER	SRESULT	Units
+09-Jan-08	789	2800279	Grab	Crk-Metro Effluent	High Flow	Onondaga Creeks	pH-field	6.95	Std Units
+22-Jan-08	789	2800803	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	7.26	Std Units
+05-Feb-08	630	2801400	Grab	Crk-Metro By Pass	High Flow	Onondaga Creeks	pH-field	7.36	Std Units
+19-Feb-08	789	2801865	Grab	Crk-Metro Effluent	High Flow	Onondaga Creeks	pH-field	6.80	Std Units
+04-Mar-08	789	2802450	Grab	Crk-Metro Effluent	High Flow	Onondaga Creeks	pH-field	6.74	Std Units
+18-Mar-08	789	2803034	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	6.93	Std Units
+01-Apr-08	789	2803630	Grab	Crk-Metro Effluent	Quarterly	Onondaga Creeks	pH-field	6.85	Std Units
+15-Apr-08	789	2804381	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	6.39	Std Units
+29-Apr-08	789	2804868	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	7.12	Std Units
+13-May-08	789	2805366	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	7.04	Std Units
+27-May-08	789	2805895	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	7.19	Std Units
+10-Jun-08	789	2806503	Grab	Crk-Metro Effluent	Quarterly	Onondaga Creeks	pH-field	6.79	Std Units
+24-Jun-08	789	2807095	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	7.22	Std Units
+08-Jul-08	789	2807625	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	6.88	Std Units
+22-Jul-08	789	2808161	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	6.89	Std Units
+05-Aug-08	789	2808805	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	6.58	Std Units
+19-Aug-08	789	2809448	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	7.15	Std Units
+03-Sep-08	789	2810065	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	6.75	Std Units
+16-Sep-08	789	2810679	Grab	Crk-Metro Effluent	Quarterly	Onondaga Creeks	pH-field	7.49	Std Units
+30-Sep-08	789	2811342	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	6.96	Std Units
+14-Oct-08	789	2812043	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	6.60	Std Units
+30-Oct-08	789	2812937	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	6.95	Std Units
+12-Nov-08	789	2813535	Grab	Crk-Metro Effluent	Quarterly	Onondaga Creeks	pH-field	7.06	Std Units
+25-Nov-08	630	2814325	Grab	Crk-Metro By Pass		Onondaga Creeks	pH-field	7.37	Std Units
+10-Dec-08	789	2814729	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	7.80	Std Units
+23-Dec-08	789	2815142	Grab	Crk-Metro Effluent	Routine (Biweekly)	Onondaga Creeks	pH-field	8.01	Std Units
