@@ -1,0 +1,18 @@
+Bias and Nash Sutcliffe Efficiency
+
+Bias
+bias_annual_value: 48
+bias_monthly_value: 49
+
+Nash_Sutcliffe_NSE
+NSE_annual_value: 0.74
+NSE_monthly_value: 0.25
+
+CN: 90
+NSE_monthly_value: 0.205
+CN: 50
+NSE_monthly_value: 0.258
+CN: 20
+NSE_monthly_value: 0.258
+CN: 5
+NSE_monthly_value: 0.236
