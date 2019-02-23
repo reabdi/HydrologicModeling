@@ -1,0 +1,46 @@
+Average Annual Discharge for 20 Years-Predicted VS observed:
+predicted_annual_flow  |  observed_annual_flow
+1  |  583  |  751
+2  |  821  |  830
+3  |  769  |  1327
+4  |  628  |  743
+5  |  1092  |  1236
+6  |  954  |  1152
+7  |  885  |  1122
+8  |  806  |  1075
+9  |  648  |  825
+10  |  939  |  1130
+11  |  1058  |  1208
+12  |  900  |  1167
+13  |  861  |  989
+14  |  761  |  890
+15  |  903  |  1089
+16  |  1170  |  1347
+17  |  505  |  843
+18  |  1087  |  1065
+19  |  568  |  888
+20  |  1356  |  1399
+   
+Average Monthly Discharge for 20 Years-Predicted VS observed:
+predicted_monthly_flow  |  observed_monthly_flow
+1  |  1018  |  463
+2  |  1562  |  1066
+3  |  1515  |  1285
+4  |  1241  |  1215
+5  |  1511  |  1118
+6  |  1290  |  2147
+7  |  971  |  2335
+8  |  777  |  1368
+9  |  -135  |  647
+10  |  -41  |  348
+11  |  82  |  307
+12  |  629  |  359
+   
+Bias for Annual Average:
+-189
+NSE for Annual Average:
+-0.33
+Bias for Monthly Average:
+-186
+NSE for Monthly Average:
+-0.17
